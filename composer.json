@@ -1,0 +1,9 @@
+{
+  "require": {
+    "php": "^8.2",
+    "ext-ffi": "*"
+  },
+  "require-dev": {
+    "nette/php-generator": "^4.1"
+  }
+}
